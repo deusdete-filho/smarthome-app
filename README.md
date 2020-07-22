@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img alt="Home" title="#home" width="700px" src=".github/1.png">
+    <img alt="Home" title="#home" width="700px" src="logo.png">
 </h4>
 
 <h1 align="center">
@@ -23,8 +23,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :iphone: Telas
 
 <h4 align="center">
-    <img alt="Home" title="#home" width="350px" src="2.png">
-    <img alt="Map" title="#map" width="350px" src="3.png">
+    <img alt="Home" title="#home" width="350px" src="1.png">
+    <img alt="Map" title="#map" width="350px" src="2.png">
 
 </h4>
 
